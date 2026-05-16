@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m AeroMV</h1>
+<h1 align="center">Hi 👋, I’m AeroMV</h1>
 
 <p align="center">
 I’m a self-taught developer building web systems, tools, and small experimental projects on the side.
@@ -10,7 +10,7 @@ I’m a self-taught developer building web systems, tools, and small experimenta
 
 ---
 
-## About me
+## ℹ️ About me
 
 - I’m currently working on personal projects under the name AeroMV  
 - Most of my work is around web development and backend systems  
@@ -22,7 +22,7 @@ I’m a self-taught developer building web systems, tools, and small experimenta
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,linux,docker,git" />
@@ -30,7 +30,7 @@ I’m a self-taught developer building web systems, tools, and small experimenta
 
 ---
 
-## Projects
+## 💡 Projects
 
 - AeroMV Platform — a collection of web tools I’m building over time  
 - Small automation scripts and utilities I use personally  
@@ -39,19 +39,7 @@ I’m a self-taught developer building web systems, tools, and small experimenta
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aeromv&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeromv&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## Connect
+## 🔗 Connect
 
 <p align="left">
   <a href="https://twitter.com/aeromv_lab">
@@ -65,6 +53,6 @@ I’m a self-taught developer building web systems, tools, and small experimenta
 
 ---
 
-## Note
+## ⭐ Note
 
 I usually prefer building simple things that work well, rather than overcomplicating them.
