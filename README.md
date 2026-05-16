@@ -32,7 +32,7 @@ I’m a self-taught developer building web systems, tools, and small experimenta
 
 ## 💡 Projects
 
-- AeroMV Platform — a collection of web tools I’m building over time  
+- A collection of web tools I’m building over time  
 - Small automation scripts and utilities I use personally  
 - Experimental systems where I test new ideas  
 - Tools that make my own workflow easier  
