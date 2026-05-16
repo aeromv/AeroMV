@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm AeroMV</h1>
 
-<!--
-**aeromv/AeroMV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Self-taught developer building web apps, automation tools & experimental systems
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aeromv&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Currently building projects under **AeroMV**
+- 🧠 Focused on web systems, automation & backend tools
+- 💬 Interested in web dev, Linux, and system design
+- 🤝 Open to collaborating on open-source tools
+- 📫 Contact: **contact@aeromv.com**
+- 🌐 Website: https://www.aeromv.com
+
+---
+
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+</p>
+
+---
+
+### 🌐 Connect
+
+<p align="left">
+  <a href="https://twitter.com/aeromv_lab">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="30"/>
+  </a>
+  <a href="https://instagram.com/aeromv_lab">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="30"/>
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aeromv&show_icons=true&hide_border=true" />
+</p>
+
+---
+
+### ⚡ Note
+
+I prefer building simple systems that actually work, not over-engineered stuff.
