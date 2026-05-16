@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm AeroMV</h1>
+<h1 align="center">Hi, I’m AeroMV</h1>
 
 <p align="center">
-  Self-taught developer building web systems, automation tools & experimental projects
+I’m a self-taught developer building web systems, tools, and small experimental projects on the side.
 </p>
 
 <p align="center">
@@ -10,35 +10,43 @@
 
 ---
 
-## About
+## About me
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=devto" width="20"/> Working on personal projects under AeroMV<br/>
-<img src="https://skillicons.dev/icons?i=brain" width="20"/> Focused on web development & backend systems<br/>
-<img src="https://skillicons.dev/icons?i=gear" width="20"/> Building tools, automation scripts & experiments<br/>
-<img src="https://skillicons.dev/icons?i=learning" width="20"/> Learning system design & DevOps<br/>
-<img src="https://skillicons.dev/icons?i=git" width="20"/> Open to collaboration on open-source ideas<br/>
-<img src="https://skillicons.dev/icons?i=gmail" width="20"/> contact@aeromv.com<br/>
-<img src="https://skillicons.dev/icons?i=globe" width="20"/> https://www.aeromv.com
-</p>
+- I’m currently working on personal projects under the name AeroMV  
+- Most of my work is around web development and backend systems  
+- I usually build tools and scripts to solve problems I run into  
+- I’m learning more about system design and DevOps as I go  
+- I like working with other developers on open-source ideas  
+- You can reach me at: contact@aeromv.com  
+- Website: https://www.aeromv.com  
 
 ---
 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,linux,docker,git,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,linux,docker,git" />
 </p>
 
 ---
 
 ## Projects
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=rocket" width="20"/> AeroMV Platform — web tools ecosystem<br/>
-<img src="https://skillicons.dev/icons?i=tool" width="20"/> Automation tools & scripts<br/>
-<img src="https://skillicons.dev/icons?i=flask" width="20"/> Experimental systems & prototypes<br/>
-<img src="https://skillicons.dev/icons?i=cloud" width="20"/> Developer utilities & APIs<br/>
+- AeroMV Platform — a collection of web tools I’m building over time  
+- Small automation scripts and utilities I use personally  
+- Experimental systems where I test new ideas  
+- Tools that make my own workflow easier  
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aeromv&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aeromv&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -47,11 +55,11 @@
 
 <p align="left">
   <a href="https://twitter.com/aeromv_lab">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 
   <a href="https://instagram.com/aeromv_lab">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -59,6 +67,4 @@
 
 ## Note
 
-<p align="left">
-I prefer building simple and efficient systems that solve real problems.
-</p>
+I usually prefer building simple things that work well, rather than overcomplicating them.
