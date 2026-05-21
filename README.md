@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I’m AeroMV</h1>
+<h1 align="center">Hi 👋, I'm AeroMV</h1>
 
 <p align="center">
-I’m a self-taught developer building web systems, tools, and small experimental projects on the side.
+I'm a self-taught full stack developer building web apps, backend systems, and automation tools.
 </p>
 
 <p align="center">
@@ -12,13 +12,13 @@ I’m a self-taught developer building web systems, tools, and small experimenta
 
 ## ℹ️ About me
 
-- I’m currently working on personal projects under the name AeroMV  
-- Most of my work is around web development and backend systems  
-- I usually build tools and scripts to solve problems I run into  
-- I’m learning more about system design and DevOps as I go  
-- I like working with other developers on open-source ideas  
-- You can reach me at: contact@aeromv.com  
-- Website: https://www.aeromv.com  
+- I build both frontend and backend — from UI to APIs to databases
+- Most of my work is around full stack web development and system design
+- I usually build tools and scripts to solve real problems
+- I'm learning more about DevOps and scalable architectures as I go
+- I like working with other developers on open-source ideas
+- You can reach me at: contact@aeromv.com
+- Website: https://www.aeromv.com
 
 ---
 
@@ -32,10 +32,10 @@ I’m a self-taught developer building web systems, tools, and small experimenta
 
 ## 💡 Projects
 
-- A collection of web tools I’m building over time  
-- Small automation scripts and utilities I use personally  
-- Experimental systems where I test new ideas  
-- Tools that make my own workflow easier  
+- Full stack web apps built from scratch
+- Small automation scripts and utilities I use personally
+- Experimental systems where I test new ideas
+- Tools that make my own workflow easier
 
 ---
 
