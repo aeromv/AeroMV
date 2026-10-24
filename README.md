@@ -23,7 +23,7 @@ I'm a self-taught full stack developer building web apps and backend systems.
 ## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,linux,docker,git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,java,react,nextjs,html,css,tailwind,git" />
 </p>
 
 ---
