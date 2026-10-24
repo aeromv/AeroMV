@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AeroMV</h1>
 
 <p align="center">
-I'm a self-taught full stack developer building web apps, backend systems, and automation tools.
+I'm a self-taught full stack developer building web apps and backend systems.
 </p>
 
 <p align="center">
@@ -12,10 +12,8 @@ I'm a self-taught full stack developer building web apps, backend systems, and a
 
 ## ℹ️ About me
 
-- I build both frontend and backend — from UI to APIs to databases
+- I build both frontend and backend, from UI to APIs to databases
 - Most of my work is around full stack web development and system design
-- I usually build tools and scripts to solve real problems
-- I'm learning more about DevOps and scalable architectures as I go
 - I like working with other developers on open-source ideas
 - You can reach me at: contact@aeromv.com
 - Website: https://www.aeromv.com
@@ -33,9 +31,7 @@ I'm a self-taught full stack developer building web apps, backend systems, and a
 ## 💡 Projects
 
 - Full stack web apps built from scratch
-- Small automation scripts and utilities I use personally
 - Experimental systems where I test new ideas
-- Tools that make my own workflow easier
 
 ---
 
