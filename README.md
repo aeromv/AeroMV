@@ -1,54 +1,48 @@
-<h1 align="center">Hi 👋, I'm AeroMV</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="AeroMV" src="assets/banner-light.svg" width="100%">
+</picture>
 
-<p align="center">
-I'm a self-taught full stack developer building web apps and backend systems.
-</p>
+I'm AeroMV, a self-taught developer. I mostly do full-stack web work: the UI, the API behind it, and the database under that. Lately I've been spending my evenings on something lower level, a Minecraft client written from scratch in Rust.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aeromv&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+I care more about things working well than looking clever. If a feature can be cut and nobody misses it, it probably should be.
 
----
+[aeromv.com](https://www.aeromv.com) · [contact@aeromv.com](mailto:contact@aeromv.com) · [Twitter](https://twitter.com/aeromv_lab) · [Instagram](https://instagram.com/aeromv_lab)
 
-## ℹ️ About me
+## Things I built
 
-- I build both frontend and backend, from UI to APIs to databases
-- Most of my work is around full stack web development and system design
-- I like working with other developers on open-source ideas
-- You can reach me at: contact@aeromv.com
-- Website: https://www.aeromv.com
+### [Cindral](https://github.com/aeromv/cindral)
 
----
+<a href="https://github.com/aeromv/cindral">
+  <img src="https://raw.githubusercontent.com/aeromv/cindral/main/.github/assets/title.png" alt="Cindral title screen" width="100%">
+</a>
 
-## 💻 Tech Stack
+A standalone Minecraft 1.8.9 client for PvP. It doesn't sit on top of the Java game. The networking, world, renderer and UI are all its own, built on [wgpu](https://wgpu.rs) (Direct3D 12 on Windows, Vulkan on Linux).
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,java,react,nextjs,html,css,tailwind,git" />
-</p>
+The goal was simple: a laptop with integrated graphics should still push a few hundred FPS in a PvP arena. Game logic runs on its own thread at 20 TPS so it never stalls a frame.
 
----
+- 14 built-in mods (keystrokes, CPS, armor status, zoom, motion blur...) behind one menu, plus a drag-and-drop HUD editor
+- Microsoft login with an account switcher, resource packs, server packs
+- No autoclicker, no reach, nothing that gives an unfair edge. That's on purpose.
+- Split into 15 crates: protocol, net, world, mesh, render, ui, and so on
 
-## 💡 Projects
+`Rust` `wgpu` `Vulkan` `D3D12`
 
-- Full stack web apps built from scratch
-- Experimental systems where I test new ideas
+### Forks I maintain
 
----
+| Project | What I changed |
+| --- | --- |
+| [discord.js-selfbot-v13](https://github.com/aeromv/discord.js-selfbot-v13) | Reworked how REST and the gateway recover from failures: a shared keep-alive pool, deduped GETs, 5xx retries with backoff and jitter, more forgiving heartbeats. Same API as upstream. |
+| [Chione](https://github.com/aeromv/Chione) | External autoclicker and movement tool for 1.7/1.8 PvP, written in Python. Fixed CPS drift, hotkeys dying after alt-tab, AZERTY and Arabic keyboard support, and set up Windows builds plus a smoke test in CI. |
 
-## 🔗 Connect
+Most of my other work (websites, Discord bots, Minecraft server plugins) lives in private repos for clients and communities I work with.
 
-<p align="left">
-  <a href="https://twitter.com/aeromv_lab">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+## What I work with
 
-  <a href="https://instagram.com/aeromv_lab">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,tailwind,rust,python,java,html,css,git&perline=12" alt="TypeScript, JavaScript, Node.js, React, Next.js, Tailwind, Rust, Python, Java, HTML, CSS, Git">
+
+Day to day it's TypeScript, React and Node. Rust when performance actually matters. Python for scripts and tooling.
 
 ---
 
-## ⭐ Note
-
-I usually prefer building simple things that work well, rather than overcomplicating them.
+<sub>Open to collaborating on open-source stuff. If something here is broken or you have an idea, open an issue or just email me.</sub>

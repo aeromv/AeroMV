@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="AeroMV">
+  <defs>
+    <pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#f0f2f4" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="0.55" stop-color="#ffffff" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0" stop-color="#ff7329"/>
+      <stop offset="1" stop-color="#ffb347"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="14" fill="#ffffff"/>
+  <rect width="1200" height="300" rx="14" fill="url(#g)"/>
+  <rect width="1200" height="300" rx="14" fill="url(#fade)"/>
+  <g font-family="ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="72" y="140" font-size="76" font-weight="800" fill="#1f2328" letter-spacing="-2">AeroMV</text>
+    <rect x="76" y="166" width="64" height="5" rx="2.5" fill="url(#accent)"/>
+    <text x="72" y="216" font-size="24" fill="#59636e">Full-stack dev. Lately writing a Minecraft client in Rust.</text>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#59636e" text-anchor="end">
+    <text x="1128" y="120">$ cargo build --release</text>
+    <text x="1128" y="150" fill="#ff7329">Finished release [optimized]</text>
+    <text x="1128" y="180">$ ./cindral --preset pvp</text>
+  </g>
+</svg>
