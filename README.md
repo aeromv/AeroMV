@@ -1,54 +1,45 @@
-<h1 align="center">Hi 👋, I'm AeroMV</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".assets/banner-dark.svg">
+  <img src=".assets/banner-light.svg" width="100%" alt="AeroMV, self-taught full-stack developer">
+</picture>
 
-<p align="center">
-I'm a self-taught full stack developer building web apps and backend systems.
-</p>
+I build web apps and the backend behind them, from the UI down to the database. Most of it is for private clients and communities, so it stays in private repos. What I can share is below.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aeromv&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+Right now most of my evenings go into Cindral, a Minecraft client I'm writing in Rust.
 
----
+## <picture><img src=".assets/icons/build.svg" width="20" height="20" align="absmiddle" alt=""></picture> Things I built
 
-## ℹ️ About me
+**[Cindral](https://github.com/aeromv/cindral)** <picture><img src=".assets/tags/rust.svg" height="22" align="absmiddle" alt="Rust"></picture> <picture><img src=".assets/tags/wgpu.svg" height="22" align="absmiddle" alt="wgpu"></picture><br>
+A standalone Minecraft 1.8.9 client for PvP. It doesn't run on top of the Java game: networking, world, renderer and UI are its own, on Direct3D 12 or Vulkan. Made so a laptop with integrated graphics can still hold a few hundred FPS in a fight. 14 built-in mods, a drag-and-drop HUD editor, Microsoft login, resource packs. No autoclicker or reach, and there won't be.
 
-- I build both frontend and backend, from UI to APIs to databases
-- Most of my work is around full stack web development and system design
-- I like working with other developers on open-source ideas
-- You can reach me at: contact@aeromv.com
-- Website: https://www.aeromv.com
+<a href="https://github.com/aeromv/cindral"><img src="https://raw.githubusercontent.com/aeromv/cindral/main/.github/assets/title.png" width="100%" alt="Cindral title screen"></a>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".assets/cindral-chart-dark.svg">
+  <img src=".assets/cindral-chart-light.svg" width="100%" alt="Cindral: about 266k lines of Rust across 15 crates, client and game being the biggest">
+</picture>
 
-## 💻 Tech Stack
+## <picture><img src=".assets/icons/fork.svg" width="20" height="20" align="absmiddle" alt=""></picture> Forks I maintain
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,java,react,nextjs,html,css,tailwind,git" />
-</p>
+- **[discord.js-selfbot-v13](https://github.com/aeromv/discord.js-selfbot-v13)** <picture><img src=".assets/tags/javascript.svg" height="22" align="absmiddle" alt="JavaScript"></picture><br>
+  Better recovery when Discord's REST or gateway misbehaves: one keep-alive pool, duplicate GETs merged, 5xx retried with backoff, one missed heartbeat no longer drops the connection
+- **[Chione](https://github.com/aeromv/Chione)** <picture><img src=".assets/tags/python.svg" height="22" align="absmiddle" alt="Python"></picture><br>
+  Autoclicker and movement tool for 1.7/1.8 PvP. I fixed CPS drift and hotkeys dying after alt-tab, added AZERTY and Arabic layouts, and set up the Windows builds
 
----
+## <picture><img src=".assets/icons/stack.svg" width="20" height="20" align="absmiddle" alt=""></picture> What I use
 
-## 💡 Projects
+<picture><img src=".assets/tags/typescript.svg" height="22" alt="TypeScript"></picture>
+<picture><img src=".assets/tags/javascript.svg" height="22" alt="JavaScript"></picture>
+<picture><img src=".assets/tags/nodejs.svg" height="22" alt="Node.js"></picture>
+<picture><img src=".assets/tags/react.svg" height="22" alt="React"></picture>
+<picture><img src=".assets/tags/nextjs.svg" height="22" alt="Next.js"></picture>
+<picture><img src=".assets/tags/tailwind.svg" height="22" alt="Tailwind"></picture>
+<picture><img src=".assets/tags/rust.svg" height="22" alt="Rust"></picture>
+<picture><img src=".assets/tags/python.svg" height="22" alt="Python"></picture>
+<picture><img src=".assets/tags/java.svg" height="22" alt="Java"></picture>
 
-- Full stack web apps built from scratch
-- Experimental systems where I test new ideas
+TypeScript and Node for most things. Rust when speed actually matters, Python for small tools.
 
----
+## <picture><img src=".assets/icons/mail.svg" width="20" height="20" align="absmiddle" alt=""></picture> Get in touch
 
-## 🔗 Connect
-
-<p align="left">
-  <a href="https://twitter.com/aeromv_lab">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-
-  <a href="https://instagram.com/aeromv_lab">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-## ⭐ Note
-
-I usually prefer building simple things that work well, rather than overcomplicating them.
+Email [contact@aeromv.com](mailto:contact@aeromv.com) • Site [aeromv.com](https://www.aeromv.com) • [Twitter](https://twitter.com/aeromv_lab) • [Instagram](https://instagram.com/aeromv_lab)
