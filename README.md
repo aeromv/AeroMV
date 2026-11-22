@@ -3,7 +3,7 @@
   <img src=".assets/banner-light.svg" width="100%" alt="AeroMV, self-taught full-stack developer">
 </picture>
 
-I build web apps and the backend behind them, from the UI down to the database. Most of it is for private clients and communities, so it stays in private repos. What I can share is below.
+I'm AeroMV, a self-taught full-stack developer. I build web apps and the backend behind them, from the UI down to the database. Most of it is for private clients and communities, so it stays in private repos. What I can share is below.
 
 Right now most of my evenings go into Cindral, a Minecraft client I'm writing in Rust.
 
