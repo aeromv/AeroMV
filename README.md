@@ -19,6 +19,9 @@ A standalone Minecraft 1.8.9 client for PvP. It doesn't run on top of the Java g
   <img src=".assets/cindral-chart-light.svg" width="100%" alt="Cindral: about 266k lines of Rust across 15 crates, client and game being the biggest">
 </picture>
 
+**[Golemian AutoClicker](https://golemian.aeromv.com)** <picture><img src=".assets/tags/rust.svg" height="22" align="absmiddle" alt="Rust"></picture> <picture><img src=".assets/tags/nextjs.svg" height="22" align="absmiddle" alt="Next.js"></picture> <picture><img src=".assets/tags/typescript.svg" height="22" align="absmiddle" alt="TypeScript"></picture><br>
+A free autoclicker for Minecraft PvP on Windows, kept separate from Cindral. The click engine is Rust and paces every click to the CPS you set, so 13 stays 13, with an optional human mode that clicks unevenly and tires. It pauses in menus and outside the game, only clicks on the hotbar slots you pick, and reads key binds from AZ Launcher and Cindral. The site, accounts, device-bound sessions and silent updates run on Next.js and Postgres. A 5.8 MB installer.
+
 ## <picture><img src=".assets/icons/fork.svg" width="20" height="20" align="absmiddle" alt=""></picture> Forks I maintain
 
 - **[discord.js-selfbot-v13](https://github.com/aeromv/discord.js-selfbot-v13)** <picture><img src=".assets/tags/javascript.svg" height="22" align="absmiddle" alt="JavaScript"></picture><br>
