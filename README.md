@@ -20,7 +20,7 @@ A standalone Minecraft 1.8.9 client for PvP. It doesn't run on top of the Java g
 </picture>
 
 **[Golemian AutoClicker](https://golemian.aeromv.com)** <picture><img src=".assets/tags/rust.svg" height="22" align="absmiddle" alt="Rust"></picture> <picture><img src=".assets/tags/nextjs.svg" height="22" align="absmiddle" alt="Next.js"></picture> <picture><img src=".assets/tags/typescript.svg" height="22" align="absmiddle" alt="TypeScript"></picture><br>
-A free autoclicker for Minecraft PvP on Windows, kept separate from Cindral. The click engine is Rust and paces every click to the CPS you set, so 13 stays 13, with an optional human mode that clicks unevenly and tires. It pauses in menus and outside the game, only clicks on the hotbar slots you pick, and reads key binds from AZ Launcher and Cindral. The site, accounts, device-bound sessions and silent updates run on Next.js and Postgres. A 5.8 MB installer.
+Autoclicker for 1.8.9 PvP on Windows. You set 13 CPS, it clicks 13, not 14. It stops when you open a chest or tab out, and only clicks on the slots you pick. The app is Rust, the site with accounts and auto-updates is Next.js. Free.
 
 ## <picture><img src=".assets/icons/fork.svg" width="20" height="20" align="absmiddle" alt=""></picture> Forks I maintain
 
